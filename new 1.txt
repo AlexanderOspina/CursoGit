@@ -17,3 +17,5 @@ $ git log --oneline ||| validar cantidad de cambios
 git reset --hard (ff57b32)|| restaurar version se coloca el codigo de la version
 
 git add . || agregar todos los archivos
+
+git commit -am "asas" || se realiza un add y un commit al tiempo

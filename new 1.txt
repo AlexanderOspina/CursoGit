@@ -1,0 +1,19 @@
+comando para inicinar Git
+
+git init -- comando iniciar el proyecto
+
+Areas --- staging area - areea temporal (si tenemos instalado git vamos hasta la carpeta y le damos click derecho y ejecutamos git bash)
+Areas --- repositorio local -fotos instantaneas del proyecto
+
+
+git add -- agregar archivo al area de ensayo (staging)
+
+git commmit --- tralado los archivos al repositorio local  --
+
+git - status -s -- comando para ver el listado de archivos
+
+$ git log --oneline ||| validar cantidad de cambios
+
+git reset --hard (ff57b32)|| restaurar version se coloca el codigo de la version
+
+git add . || agregar todos los archivos
